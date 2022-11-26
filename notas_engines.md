@@ -1,6 +1,6 @@
  # Comparación rapida de motores de ajedrez
  
- - la evaluación va de -1 a 1 dónde el 0 representa que ningun jugador tiene una ventaja
+ - la evaluación va de -inf a inf dónde el 0 representa que ningun jugador tiene una ventaja
  - se muestran las evaluaciones de dos jugadas de esta [partida](https://lichess.org/xTbGG2VQ)
  - para cada jugada se muestra la sugerencia del modulo en lugar de la jugada realizada y la evaluación de la posición si se hubiese realizado
  - cada modulo analizó por 5 segundos cada jugada
